@@ -1,0 +1,1 @@
+from test.smooth_cross_entropy import smooth_crossentropy
